@@ -1,6 +1,7 @@
 - 👋 Hi, I’m JeKyung Lee
 - 👀 I’m interested in WEB & APP Development
-- 🌱 I’m currently learning NODE JS, TYPESCRIPT
+- 🌱 I’m currently learning NODE JS, PYTHON, TYPESCRIPT
+- 🔨 REACT, DJANGO, EXPRESS, FIREBASE, NAKAMA, FLUTTER
 - 📫 How to reach me jejelee98@gmail.com
 
 <!---
