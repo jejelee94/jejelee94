@@ -1,8 +1,8 @@
 - 👋 Hi, I’m JeKyung Lee
-- 👀 I’m interested in WEB & APP Development
-- 🌱 I’m currently learning NODE JS, PYTHON, TYPESCRIPT
-- 🔨 REACT, DJANGO, EXPRESS, FIREBASE, NAKAMA, FLUTTER
-- 📫 How to reach me jejelee98@gmail.com
+- 👀 I’m interested in WEB & GAME Development
+- 🌱 MY_LANGUAGE = TYPESCRIPT,GO,C#
+- 🔨 MY_FAVORITE = REACT, NEXT, NAKAMA, PLAYCANVAS, UNITY
+- 📫 E_MAIL = jejelee98@gmail.com
 
 <!---
 jejelee94/jejelee94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
